@@ -1,0 +1,21 @@
+# March 26, 2019 Retrospective 
+
+## What went well
+
+* Max and Christian went to Midcamp and learned a lot of things and met lots of people
+* Max's module works on his computer
+* Max learned a lot of Drupal 8
+* Rick did some last-minute mentoring of Max and Christian on Drupal
+* First sprint with new team configuration
+
+## What didn't go well
+
+* Christian was a jerk to Rick today and felt bad, then apologized
+* Megan Moore's work is uncovering some inconsistencies with either Acquia, our platform, and/or her training
+* Rick had to update the captions changes by himself as a hot fix during Midcamp
+* Christian and Max were tired in Chicago
+* Max's module didn't pass the Travis-CI build check
+
+## Action items
+
+* Report the bug on FlexSlider Javascript library
